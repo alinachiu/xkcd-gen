@@ -79,7 +79,7 @@ if '-s' in sys.argv:
 elif '--symbols' in sys.argv:
     syms = int(sys.argv[sys.argv.index('--symbols') + 1])
 
-# generates a help message
+# generates help message
 if '-h' in sys.argv or '--help' in sys.argv:
     print('usage: xkcdpwgen [-h] [-w WORDS] [-c CAPS] [-n NUMBERS] [-s SYMBOLS] \n\n'
         'Generate a secure, memorable password using the XKCD method\n\n'
