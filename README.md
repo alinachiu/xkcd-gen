@@ -1,5 +1,5 @@
 # RandomPasswordGenerator
-A random password generator written in Python3 which generates passwords using the [xkcd](https://xkcd.com/936/) password generating method. Uses a text file filled with over 466k English words as well as a combination of symbols and numbers to generate strong passwords. The program can be run as a Unix executable file in the terminal (xkcdpwgen with no extension), but the source code is provided as xkcdpwgen.py as well.
+A random password generator written in Python3 which generates passwords using the [xkcd](https://xkcd.com/936/) password generating method. Uses a text file filled with over 466k English words as well as a combination of symbols and numbers to generate strong passwords. The program can be run as a Unix executable file in the terminal.
 
 ## Terminal Commands
 The user can tell the program how many words, capitals, numbers, and symbols they want to have in their randomly generated password. If they ever get stuck, -h or --help can be used to display a help message with all of the commands.
