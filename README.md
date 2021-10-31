@@ -4,7 +4,7 @@ A random password generator written in Python3 which generates passwords using t
 ## Terminal Commands
 The user can tell the program how many words, capitals, numbers, and symbols they want to have in their randomly generated password. If they ever get stuck, -h or --help can be used to display a help message with all of the commands.
 
-Can run in terminal using the following command (items in [] are addtional commands):
+Can run in Terminal using the following command (items in [] are addtional commands):
 
 xkcdpwgen [-h] [-w WORDS] [-c CAPS] [-n NUMBERS] [-s SYMBOLS]
 
